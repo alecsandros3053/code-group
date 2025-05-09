@@ -64,10 +64,11 @@
 
 **Dados iniciais do teste de perfomance**
 
-![Autor](img/dados.png)
+![Img](img/dados.png)
 
 **Resultado do testes** 
-![Autor](img/dadosTeste.png)
+
+![Img2](img/dadosTeste.png)
 
 **Considerações finais**
 
