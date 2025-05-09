@@ -68,7 +68,6 @@
 
 ### Resultado do testes 
 
-![Autor](img/dadosTeste.png)
 
 **Considerações finais **
 
