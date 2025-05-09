@@ -62,11 +62,11 @@
 
 **Relatório teste de perfomance**
 
-### Dados iniciais do teste de perfomance
+**Dados iniciais do teste de perfomance**
 
 ![Autor](img/dados.png)
 
-### Resultado do testes 
+**Resultado do testes** 
 ![Autor](img/dadosTeste.png)
 
 **Considerações finais**
