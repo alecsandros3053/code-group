@@ -7,7 +7,7 @@
 
 ### Executando os teste pela IDE
 
-* Pode ser encontrado no pacote suits um arquivo chamado DesafioRunnerTestbasta executa-lo como JUnit Test. 
+* Pode ser encontrado no pacote suits um arquivo chamado DesafioRunnerTest basta executa-lo como JUnit Test. 
 
 ### Executando os teste por linha de comado
 * mvn test -DTest=DesafioRunnerTest
@@ -69,7 +69,7 @@
 ### Resultado do testes 
 ![Autor](img/dadosTeste.png)
 
-**Considerações finais **
+**Considerações finais**
 
 * Site apresenta boa usabilidade, porém poderia melhorar a performance 
 
